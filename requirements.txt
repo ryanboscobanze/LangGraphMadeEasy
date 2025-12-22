@@ -1,0 +1,17 @@
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+langchain-core
+langgraph-cli[inmem]
+langchain-tavily
+tavily-python
+langchain_openai   
+python-dotenv
+notebook
+jupyterlab
+ipykernel
+pyppeteer
+nest_asyncio
+requests
+trustcall
+langchain_community
