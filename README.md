@@ -1,6 +1,3 @@
-# LangGraphMadeEasy
-repo for langgraph made easy course
-
 
 # LangGraph Made Easy
 
