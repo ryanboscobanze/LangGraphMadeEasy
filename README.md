@@ -7,8 +7,14 @@ The goal of this course is to provide a clear, practical, and step-by-step intro
 
 ---
 
+## ## LangGraph Made Easy — Udemy Course  
+**A practical, hands-on guide to building real production AI apps using LangGraph**
 
-### Create and activate a virtual environment
+🔗 https://www.udemy.com/course/langgraph-made-easy/
+
+---
+
+## Create and activate a virtual environment
 
 ```bash
 python -m venv .venv
